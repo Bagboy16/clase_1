@@ -1,7 +1,7 @@
 name: clase_1
-description: A sample command-line application.
+description: Bases del lenguaje Dart.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Bagboy16/clase_1
 
 environment:
   sdk: ^3.2.3
